@@ -1,3 +1,3 @@
 # data_generator
 
-<span style='color: red'> красным </span>
+<span style='color: red'> красным
